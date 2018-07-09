@@ -1,0 +1,1 @@
+## Jasmine是Javascript的BDD测试框架，那BDD和TDD在测试代码中是如何体现的
